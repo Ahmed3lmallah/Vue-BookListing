@@ -8,7 +8,7 @@
 
 <script>
     export default {
-        name: bookForm,
+        name: BookForm,
         data(){
             return {
                 bookTitle: '',
